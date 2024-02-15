@@ -1,0 +1,11 @@
+{
+  "name": "employeewise-main",
+  "version": "1.0.0",
+  "description": "This application is crafted using Spring Boot, Maven, MongoDB (NoSQL DB), and Gmail as the email service provider.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
