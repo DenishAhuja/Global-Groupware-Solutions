@@ -1,4 +1,4 @@
-#Employee Management System
+# Employee Management System
 
 This application is crafted using Spring Boot, Maven, MongoDB (NoSQL DB), and Gmail as the email service provider.
 
